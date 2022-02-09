@@ -9,8 +9,8 @@ This is the landing page for my github repository.
 Places
 
 > * [Bremen](https://en.wikipedia.org/wiki/Bremen) - _Bremen_
-> * [Sunbury](https://en.wikipedia.org/wiki/Bremen) - _Sunbury_
-> * [Mile End](https://en.wikipedia.org/wiki/Bremen) - _East London_
+> * [Sunbury](https://en.wikipedia.org/wiki/Sunbury-on-Thames) - _Sunbury_
+> * [Mile End](https://en.wikipedia.org/wiki/Mile_End) - _East London_
 
 📫 How to reach me: Twitter [@david_sinden](twitter.com/david_sinden)
 
