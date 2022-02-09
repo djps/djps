@@ -2,6 +2,18 @@
 
 This is the landing page for my github repository. 
 
+*******
+
+## `whoami`
+
+Places
+
+> * [Bremen](https://en.wikipedia.org/wiki/Bremen) - _Bremen_
+> * [Sunbury](https://en.wikipedia.org/wiki/Bremen) - _Sunbury_
+> * [Mile End](https://en.wikipedia.org/wiki/Bremen) - _East London_
+
+📫 How to reach me: Twitter [@david_sinden](twitter.com/david_sinden)
+
 <!--
 **djps/djps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
