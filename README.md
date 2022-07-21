@@ -2,8 +2,11 @@
 
 This is the landing page for my github repository. 
 
-*******
+
 <!--
+
+*******
+
 ## `whoami`
 
 Places
