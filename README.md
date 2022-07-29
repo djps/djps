@@ -1,6 +1,6 @@
 ### Welcome
 
-This is the landing page for my github repository. 
+This is the landing page for my github repository. Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](twitter.com/david_sinden)
 
 
 <!--
