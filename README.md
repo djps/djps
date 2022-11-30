@@ -1,5 +1,7 @@
 ### Welcome
 
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/david_sinden) -->
+
 This is the landing page for my github repository. Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](twitter.com/david_sinden)
 
 
