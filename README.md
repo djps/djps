@@ -1,11 +1,21 @@
-### Welcome
+## Welcome :wave:
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/david_sinden) -->
 
-This is the landing page for my github repository. Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](twitter.com/david_sinden)
+This is the landing page for my github repository. Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](https://twitter.com/david_sinden)
+
+## Currenlty Working On :telescope:
+
+* [Multibubble dynamics](https://github.com/djps/lyapunov) 
+* [Sparse recovery in acoustic holography](https://github.com/djps/MatrixCompletion)
+
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=djps)](https://github.com/djps/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djps)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
+## Papers :scroll:
+
+* [something](here)
 
 *******
 
