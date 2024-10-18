@@ -9,8 +9,18 @@ This is the landing page for my github repository. Check out my [homepage](https
 * [Multibubble dynamics](https://github.com/djps/lyapunov) 
 * [Sparse recovery in acoustic holography](https://github.com/djps/MatrixCompletion)
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=djps)](https://github.com/djps/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djps)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=djps)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djps)]()
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=djps)
+
+[![](https://visitcount.itsvg.in/api?id=djps&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
 
 
 ## Papers :scroll:
@@ -51,6 +61,41 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter [@david_sinden](twitter.com/david_sinden), GitHub: [github.com/djps](github.com/djps)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="CMAKE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
+<img align="left" alt="Fortran" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" />
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+<img align="left" alt="HUGO" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-plain.svg" />
+<img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+<img align="left" alt="gcc" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
+<img align="left" alt="matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+
+<img align="left" alt="latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+<br />
+
+---
+
+### 📊 Github Stats 
+
+![](https://github-readme-stats.vercel.app/api?username=djps&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=djps&theme=dark&hide_border=false)<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=djps)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=djps&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+-->
 
