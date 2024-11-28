@@ -6,6 +6,7 @@ This is the landing page for my github repository. Check out my [homepage](https
 
 ## Currenlty Working On :telescope:
 
+* Transcranial ultrasound propagation
 * [Multibubble dynamics](https://github.com/djps/lyapunov) 
 * [Sparse recovery in acoustic holography](https://github.com/djps/MatrixCompletion)
 
