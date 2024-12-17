@@ -1,8 +1,13 @@
 ## Welcome :wave:
+<!--
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/david_sinden) 
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/david_sinden) -->
+![](https://img.shields.io/badge/MRI%20Physics-8A2BE2) ![](https://img.shields.io/badge/Medical%20Imaging-33efff) ![](https://img.shields.io/badge/qMRI%20Metrology-e20c4e) ![](https://img.shields.io/badge/Open–source%20Software-ff5d33) ![](https://img.shields.io/badge/Data%20Standards-3389ff) ![](https://img.shields.io/badge/Reproducible%20Science-10c34e) ![](https://img.shields.io/badge/Workflows-c31084) ![](https://img.shields.io/badge/Biomechanics-cfe20c)
+-->
 
-This is the landing page for my github repository. Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](https://twitter.com/david_sinden)
+This is the landing page for my github repository. 
+Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](https://twitter.com/david_sinden) / [@davidsinden.bsky.social](https://bsky.app/profile/davidsinden.bsky.social)
+
 
 ## Currenlty Working On :telescope:
 
@@ -11,8 +16,16 @@ This is the landing page for my github repository. Check out my [homepage](https
   For therapy <i>and</i> imaging; using accelerated acoustic and elastic models. 
 </details>
 
-* [Multibubble dynamics](https://github.com/djps/lyapunov) 
-* [Sparse recovery in acoustic holography](https://github.com/djps/MatrixCompletion)
+<details>
+  <summary>Multibubble dynamics</summary>
+  <a href="https://github.com/djps/lyapunov">Multibubble dynamics</a>
+</details>
+
+<details>
+  <summary>Sparse recovery in acoustic holography</summary>
+  <a href="https://github.com/djps/MatrixCompletion">Matrix completion</a>
+</details>
+
 
 
 <!-- 
