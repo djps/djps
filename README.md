@@ -8,6 +8,7 @@
 This is the landing page for my github repository. 
 Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](https://twitter.com/david_sinden) / [@davidsinden.bsky.social](https://bsky.app/profile/davidsinden.bsky.social)
 
+<img src="metrics-base.svg" align="right" width="60.5%"></img>
 
 ## Currenlty Working On :telescope:
 
