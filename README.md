@@ -28,12 +28,19 @@ Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](htt
 </details>
 
 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 
-<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djps&theme=transparent&hide_border=true)]()
+
+<!--
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=djps)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djps)]()
+
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=djps)
 
@@ -110,11 +117,14 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=djps&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=djps&theme=dark&hide_border=false)<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=djps)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djps&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 -->
 
