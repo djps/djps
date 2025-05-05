@@ -29,10 +29,13 @@ Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](htt
 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Git-informational?logo=git&logoColor=white&color=2bbc8a)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djps&theme=transparent&hide_border=true)]()
 
