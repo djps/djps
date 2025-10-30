@@ -41,6 +41,45 @@ Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](htt
 
 <!--
 
+<a target="_blank" href="https://bvial.info">
+<img src="https://img.shields.io/static/v1?label=&message=website&color=29b093&style=for-the-badge&logo=TorBrowser&labelColor=555555&?logoColor=white">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/benjamin-vial-701018b9">
+<img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&style=for-the-badge&logo=inspire&labelColor=555555&logoColor=white">
+</a>
+<a target="_blank" href="https://gitlab.com/benvial">
+<img src="https://img.shields.io/static/v1?label=&message=gitlab&color=FCA121&style=for-the-badge&logo=gitlab&labelColor=555555&?logoColor=white">
+</a>
+<a target="_blank" href="https://github.com/benvial">
+<img src="https://img.shields.io/static/v1?label=&message=github&color=2088FF&style=for-the-badge&logo=github&labelColor=555555&logoColor=white">
+</a>
+<a target="_blank" href="https://www.researchgate.net/profile/Benjamin-Vial">
+<img src="https://img.shields.io/static/v1?label=&message=researchgate&color=00CCBB&style=for-the-badge&logo=researchgate&labelColor=555555&logoColor=white">
+</a>
+<a target="_blank" href="https://scholar.google.co.uk/citations?user=2Z7zJqYAAAAJ">
+<img src="https://img.shields.io/static/v1?label=&message=google%20scholar&color=4285F4&style=for-the-badge&logo=googlescholar&labelColor=555555&logoColor=white">
+</a>
+<a target="_blank" href="https://arxiv.org/search/physics?searchtype=author&query=Vial%2C+B">
+<img src="https://img.shields.io/static/v1?label=&message=arXiv&color=B31B1B&style=for-the-badge&logo=arXiv&labelColor=555555&logoColor=white">
+</a>
+
+
+
+### k-wave-python
+
+<a class="reference external image-reference" href="https://github.com/waltsims/k-wave-python/releases" target="_blank">
+<img alt="Release" src="https://img.shields.io/endpoint?url=https://github.com/waltsims/k-wave-python/-/jobs/artifacts/main/raw/logobadge.json?job=badge"></a>
+
+https://github.com/waltsims/k-wave-python/-/releases
+
+*Plane wave expansion method for photonic crystals with automatic differentiation.*
+
+[protis.gitlab.io](https://protis.gitlab.io)
+
+--------------------
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=djps)
 
 
