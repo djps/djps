@@ -36,10 +36,11 @@ Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](htt
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Git-informational?logo=git&logoColor=white&color=2bbc8a)
 
-
+![Stats](./profile/stats.svg)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djps&theme=transparent&hide_border=true)]()
 
-<!--
+
 
 <a target="_blank" href="https://bvial.info">
 <img src="https://img.shields.io/static/v1?label=&message=website&color=29b093&style=for-the-badge&logo=TorBrowser&labelColor=555555&?logoColor=white">
