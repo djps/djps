@@ -16,7 +16,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-        persist-credentials: false
+        with:
+          persist-credentials: false
         
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
