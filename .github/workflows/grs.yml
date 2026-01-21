@@ -39,3 +39,17 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+          
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: master 
+          folder: 'profile'
+          repository-name: djps/homepage
+          target-folder: static/uploads/git-data
+          git-config-name: djps
+          token: ${{ secrets.GRS }}
+          commit-message: 'update githun stats on homepage'
+          single-commit: false
+          clean: true
+          silent: false
