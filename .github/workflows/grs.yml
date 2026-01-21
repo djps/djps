@@ -40,10 +40,13 @@ jobs:
           git commit -m "Update README cards" || exit 0
           git push
           
+      - name: Checkout2 
+        uses: actions/checkout@v6
+        
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: master 
+          branch: main 
           folder: 'profile'
           repository-name: djps/homepage
           target-folder: static/git-data
