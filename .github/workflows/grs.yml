@@ -40,19 +40,3 @@ jobs:
           git commit -m "Update README cards" || exit 0
           git push
           
-      - name: Checkout2 
-        uses: actions/checkout@v6
-        
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: main 
-          folder: 'profile'
-          repository-name: djps/homepage
-          target-folder: static/git-data
-          git-config-name: djps
-          token: ${{ secrets.PROFILE_TO_HOMEPAGE }}
-          commit-message: 'update githun stats on homepage'
-          single-commit: false
-          clean: true
-          silent: false
