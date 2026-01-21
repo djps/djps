@@ -1,0 +1,32 @@
+name: To profile to homepgae
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: checkout
+      - uses: actions/checkout@v6
+        
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: main 
+          folder: 'profile'
+          repository-name: djps/homepage
+          target-folder: static/git-data
+          git-config-name: djps
+          token: ${{ secrets.PROFILE_TO_HOMEPAGE }}
+          commit-message: 'update github stats on homepage'
+          single-commit: false
+          clean: true
+          silent: false
