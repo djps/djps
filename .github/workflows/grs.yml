@@ -46,7 +46,7 @@ jobs:
           branch: master 
           folder: 'profile'
           repository-name: djps/homepage
-          target-folder: static/uploads/git-data
+          target-folder: static/git-data
           git-config-name: djps
           token: ${{ secrets.PROFILE_TO_HOMEPAGE }}
           commit-message: 'update githun stats on homepage'
