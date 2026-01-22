@@ -8,9 +8,9 @@
 This is the landing page for my github repository. 
 Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](https://twitter.com/david_sinden) / [@davidsinden.bsky.social](https://bsky.app/profile/davidsinden.bsky.social)
 
-<img src="metrics-base.svg" align="right" width="60.5%"></img>
-
 ## Currenlty Working On :telescope:
+
+<img src="metrics-base.svg" align="right" width="60.5%"></img>
 
 <details>
   <summary>Transcranial ultrasound propagation</summary>
@@ -36,7 +36,10 @@ Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](htt
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Git-informational?logo=git&logoColor=white&color=2bbc8a)
 
-![Stats](./profile/lang.svg)
+<p align="left">
+    <img src="./profile/lang.svg" alt="Description" width="375">
+</p>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djps&theme=transparent&hide_border=true)]()
 
