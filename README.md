@@ -37,7 +37,7 @@ Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](htt
 ![](https://img.shields.io/badge/Code-Git-informational?logo=git&logoColor=white&color=2bbc8a)
 
 <p align="left">
-    <img src="./profile/lang.svg" alt="Description" width="350">
+    <img src="./profile/lang.svg" alt="Description" width="325">
 </p>
 
 <!--
