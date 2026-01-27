@@ -36,9 +36,14 @@ Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](htt
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Git-informational?logo=git&logoColor=white&color=2bbc8a)
 
+<!--
 <p align="left">
     <img src="./profile/lang.svg" alt="Description" width="320" style="vertical-align: top;">
 </p>
+-->
+
+|  <img align="center" src="./profile/stats.svg" alt="Statistics" style="vertical-align: top;">| <img align="center" src="./profile/lang.svg" alt="languages" style="vertical-align: top;"/> |
+| ------------- | ------------- |
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djps&theme=transparent&hide_border=true)]()
