@@ -1,10 +1,8 @@
-name: Update README cards
+name: Update README cards weekly
 
 on:
   schedule:
     - cron: "0 02 * * 0" # Runs once a week at two am
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
 
 jobs:
   build:
@@ -56,3 +54,4 @@ jobs:
           git commit -m "Update README cards" || exit 0
           git push
           
+
