@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark_dimmed&rank_icon=github&count_private=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark_dimmed&rank_icon=github&count_private=true&disable_animations=true
           path: profile/stats.svg
           token: ${{ secrets.GRS }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark_dimmed&exclude_repo=hugo-blox-builder,hugo-theme-documentation,djps.github.io
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark_dimmed&exclude_repo=hugo-blox-builder,hugo-theme-documentation,djps.github.io&disable_animations=true
           path: profile/lang.svg
           token: ${{ secrets.GRS }}
 
@@ -39,12 +39,4 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=pyKZK&layout=compact&theme=github_dark_dimmed
           path: profile/pyKZK.svg
           token: ${{ secrets.GRS }}
-          
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
           
