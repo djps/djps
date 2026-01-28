@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Runs once a wwek at midnight
+    - cron: "0 02 * * 0" # Runs once a week at two am
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
