@@ -1,6 +1,7 @@
 name: Update README cards weekly
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 02 * * 0" # Runs once a week at two am
 
