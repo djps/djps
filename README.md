@@ -42,7 +42,7 @@ Check out my [homepage](https://djps.github.io) or follow me [@david_sinden](htt
 </p>
 -->
 
-|  <img align="center" src="./profile/stats.svg" alt="Statistics" style="vertical-align: top;">| <img align="center" src="./profile/lang.svg" alt="languages" style="vertical-align: top;"/> |
+|  <img align="center" src="./profile/stats0.svg" alt="Statistics" style="vertical-align: top;">| <img align="center" src="./profile/lang0.svg" alt="languages" style="vertical-align: top;"/> |
 | ------------- | ------------- |
 
 <!--

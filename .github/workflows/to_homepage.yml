@@ -2,7 +2,7 @@ name: From profile to homepgae
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 03 * * 0" # Runs once weekly at 3am
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
