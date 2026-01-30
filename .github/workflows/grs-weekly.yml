@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=streamlit-transcranial&layout=default&theme=github_dark_dimmedd&show_owner=false&description_lines_count=2
+          options: username=${{ github.repository_owner }}&repo=streamlit-transcranial&layout=default&theme=github_dark_dimmed&show_owner=false&description_lines_count=2
           path: profile/streamlit.svg
           token: ${{ secrets.GRS }}   
 
@@ -51,7 +51,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=homoclinic-orbits&layout=default&theme=github_dark_dimmedd&show_owner=false&description_lines_count=2
+          options: username=${{ github.repository_owner }}&repo=homoclinic-orbits&layout=default&theme=github_dark_dimmed&show_owner=false&description_lines_count=2
           path: profile/homoclinic.svg
           token: ${{ secrets.GRS }}   
 
@@ -63,6 +63,7 @@ jobs:
           git commit --allow-empty -m "Update README weekly cards" || exit 0
           git push
           
+
 
 
 
