@@ -22,6 +22,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark_dimmed&rank_icon=github&count_private=true
           path: profile/stats0.svg
+          fail_on_error: true
           token: ${{ secrets.GRS }}
 
       - name: Generate language card
