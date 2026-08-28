@@ -1,4 +1,4 @@
-name: From profile to homepgae
+name: From profile to homepage
 
 on:
   schedule:
