@@ -21,6 +21,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark_dimmed&rank_icon=github&count_private=true&card_width=437&disable_animations=true
           path: profile/stats.svg
+          fail_on_error: true
           token: ${{ secrets.GRS }}
 
       - name: Generate language card
@@ -29,6 +30,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark_dimmed&exclude_repo=hugo-blox-builder,hugo-theme-documentation,djps.github.io&card_width=437&disable_animations=true
           path: profile/lang.svg
+          fail_on_error: true
           token: ${{ secrets.GRS }}
 
       - name: Generate pin card for pyKZK
@@ -37,6 +39,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=pyKZK&layout=default&theme=github_dark_dimmed&show_owner=false&description_lines_count=2
           path: profile/pyKZK.svg
+          fail_on_error: true
           token: ${{ secrets.GRS }}
 
       - name: Generate pin card for streamlit-transcranial
@@ -45,14 +48,16 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=streamlit-transcranial&layout=default&theme=github_dark_dimmed&show_owner=false&description_lines_count=2
           path: profile/streamlit.svg
+          fail_on_error: true
           token: ${{ secrets.GRS }}   
 
       - name: Generate pin card for homoclinic-orbits
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=homoclinic-orbits&layout=default&theme=github_dark_dimmed&show_owner=false&description_lines_count=2
           path: profile/homoclinic.svg
+          fail_on_error: true
           token: ${{ secrets.GRS }}   
 
       - name: Generate pin card for thesis
@@ -61,6 +66,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=Thesis&layout=default&theme=github_dark_dimmed&show_owner=false&description_lines_count=2
           path: profile/thesis.svg
+          fail_on_error: true
           token: ${{ secrets.GRS }}   
 
       - name: Commit cards
