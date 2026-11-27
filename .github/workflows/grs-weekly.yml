@@ -83,7 +83,7 @@ jobs:
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=acoustic-outputs&layout=default&theme=github_dark_dimmed&show_owner=false&description_lines_count=2
-          path: profile/pywave3d.svg
+          path: profile/acoustic-output.svg
           fail_on_error: true
           token: ${{ secrets.GRS }}   
 
